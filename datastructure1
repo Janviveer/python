@@ -1,0 +1,11 @@
+from math import pi
+r = float(input ("Input the radius of circle:"))
+print("The area of circle with radius"+str(r) + "is:"+str(pi*r*r))
+
+
+
+
+#output:
+
+#Input the radius of circle:1.1
+#The area of circle with radius1.1is:3.8013271108436504
